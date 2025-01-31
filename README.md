@@ -1,3 +1,5 @@
+[](https://images.app.goo.gl/yzLdCcvtRb11MLyi9)
+
 ## Hi there! 👋  
 
 I'm a **Data Scientist & AI Engineer** with experience in **deep learning, generative AI**. I work with **transformer models, CNNs, and large-scale datasets**, using frameworks like **TensorFlow, PyTorch, and Hugging Face Transformers**.  
