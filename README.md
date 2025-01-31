@@ -18,5 +18,5 @@ I'm a **Data Scientist & AI Engineer** with experience in **deep learning, gener
 - **Tools:** Pandas, NumPy, Matplotlib, Seaborn
 - **Areas of Expertise:** Deep Learning, NLP, Computer Vision, Generative AI
 
-!💼 [View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/main/ReemaAbdelrazeq_CV.pdf)
+[View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/blob/main/ReemaAbdelrazeq_CV.pdf) 
 
