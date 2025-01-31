@@ -1,4 +1,4 @@
-[](https://images.app.goo.gl/yzLdCcvtRb11MLyi9)
+
 
 ## Hi there! 👋  
 
