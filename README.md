@@ -1,6 +1,6 @@
 
 
-!(attachment:/mnt/data/A_futuristic_AI-themed_banner_featuring_a_glowing_.png)  
+[](attachment:/mnt/data/A_futuristic_AI-themed_banner_featuring_a_glowing_.png)  
 
 ## Hi there! 👋  
 
