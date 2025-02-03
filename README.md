@@ -1,9 +1,8 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/581a5b05-2bf3-4e74-8166-2f44f416b39b" alt="gif">
+  <img src="https://github.com/user-attachments/assets/330b8bd5-fc98-4007-8596-3c0e1796e955" alt="gif">
 </p>
 
-<h1 align="center">Navigating The Digital Universe! 🌌</h1>
+<p align="center"><b>Navigating The Digital Universe! 🌌</b></p>
 
 
 ## 🌟 About Me
