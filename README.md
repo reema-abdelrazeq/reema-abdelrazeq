@@ -22,7 +22,7 @@
 
 ## 📫 Contact Me
 - 📧 [Gmail](reemaabdelrazeq5@gmail.com)
-- 🌐 LinkedIn: [Reema Abdelrazeq] (https://www.linkedin.com/in/reema-abdelrazeq)
+- 🌐 [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)
 
 📄 [View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/blob/main/ReemaAbdelrazeq_CV.pdf) 
 
