@@ -1,20 +1,28 @@
 
 
-## Hi there! 👋  
 
-I'm a **Data Scientist & AI Engineer** with experience in **deep learning, generative AI**. I work with **transformer models, CNNs, and large-scale datasets**, using frameworks like **TensorFlow, PyTorch, and Hugging Face Transformers**.  
+# Navigating The Digital Universe! 🌌
 
-## 🔹 What I Do  
-- Develop AI-driven models  
-- Fine-tune transformer models for real-world applications  
-- Optimize deep learning models for efficiency and performance  
-  
+
+## 🌟 About Me
+- 👤**Data Scientist** focused on cutting-edge technologies.
+- 🧠 Experienced in **Deep Learning And Generative AI**.
+
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** Python
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face Transformers
 - **Tools:** Pandas, NumPy, Matplotlib, Seaborn
 - **Areas of Expertise:** Deep Learning, NLP, Computer Vision, Generative AI
+
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+
+## 📫 Contact Me
+- 📧 [Gmail](reemaabdelrazeq5@gmail.com)
+- 🌐 LinkedIn: [Reema Abdelrazeq] (https://www.linkedin.com/in/reema-abdelrazeq)
 
 📄 [View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/blob/main/ReemaAbdelrazeq_CV.pdf) 
 
