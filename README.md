@@ -18,9 +18,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=dark" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reema-abdelrazeq&layout=compact&theme=dark" alt="Top Languages">
-</p>
+  </p>
 
 ## 📫 Contact Me  
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
