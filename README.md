@@ -1,8 +1,9 @@
 
-![Brown Aesthetic Wallpaper Laptop](https://github.com/user-attachments/assets/581a5b05-2bf3-4e74-8166-2f44f416b39b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/581a5b05-2bf3-4e74-8166-2f44f416b39b" alt="gif">
+</p>
 
-
-# Navigating The Digital Universe! 🌌
+<h1 align="center">Navigating The Digital Universe! 🌌</h1>
 
 
 ## 🌟 About Me
