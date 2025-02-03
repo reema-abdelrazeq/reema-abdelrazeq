@@ -1,30 +1,29 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/330b8bd5-fc98-4007-8596-3c0e1796e955" alt="gif">
+  <img src="https://github.com/user-attachments/assets/e38f329f-ed7b-42e7-b182-b7f9b413ecea" alt="Hello Tumblr, my commissions are open!">
 </p>
 
 <p align="center"><b>Navigating The Digital Universe! 🌌</b></p>
 
+## 🌟 About Me  
+- 🔍 **Data Scientist & AI Engineer** – Passionate about turning data into insights.  
+- 🧠 **Machine Learning Enthusiast** – Specializing in predictive modeling, NLP, and deep learning.  
+- 🚀 **Always Learning** – Keeping up with the latest trends in AI, ML, and data science advancements.  
 
-## 🌟 About Me
-- 👤**Data Scientist** focused on cutting-edge technologies.
-- 🧠 Experienced in **Deep Learning And Generative AI**.
+## 🛠️ Skills & Technologies  
+- **Programming Languages:** Python  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face Transformers  
+- **Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Areas of Expertise:** Deep Learning, NLP, Computer Vision, Generative AI  
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=dark" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reema-abdelrazeq&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
-## 🛠️ Skills & Technologies
-- **Programming Languages:** Python
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face Transformers
-- **Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Areas of Expertise:** Deep Learning, NLP, Computer Vision, Generative AI
+## 📫 Contact Me  
+- 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
+- 🌐 **LinkedIn:** [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)  
 
-
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=dark)
-
-
-## 📫 Contact Me
-- 📧 [Gmail](reemaabdelrazeq5@gmail.com)
-- 🌐 [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)
-
-📄 [View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/blob/main/ReemaAbdelrazeq_CV.pdf) 
-
+📄 **[View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/blob/main/ReemaAbdelrazeq_CV.pdf)**  
