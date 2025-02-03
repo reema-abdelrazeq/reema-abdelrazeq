@@ -1,5 +1,5 @@
 
-![Uploading Brown Aesthetic Wallpaper Laptop.gif…]()
+![Brown Aesthetic Wallpaper Laptop](https://github.com/user-attachments/assets/581a5b05-2bf3-4e74-8166-2f44f416b39b)
 
 
 # Navigating The Digital Universe! 🌌
