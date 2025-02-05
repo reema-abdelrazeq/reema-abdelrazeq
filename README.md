@@ -17,11 +17,13 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent&bg_color=2e003e&title_color=bb86fc&text_color=e0b3ff&icon_color=9a47e5" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reema-abdelrazeq)
 
-## 📫 Contact Me  
+
+## 📫 Contact Me 
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
 - 🌐 **LinkedIn:** [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)  
 
