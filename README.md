@@ -17,7 +17,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=reema-abdelrazeq)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent)
 
 
 ## 📫 Contact Me  
