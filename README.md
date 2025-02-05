@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e38f329f-ed7b-42e7-b182-b7f9b413ecea" alt="Hello Tumblr, my commissions are open!">
+  <img src="https://github.com/user-attachments/assets/e38f329f-ed7b-42e7-b182-b7f9b413ecea" alt="Hello ">
 </p>
 
 <p align="center"><b>Navigating The Digital Universe! 🌌</b></p>
@@ -17,9 +17,12 @@
 
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=dark" alt="GitHub Stats">
-  </p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=reema-abdelrazeq&theme=transparent&border_radius=4.1" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 ## 📫 Contact Me  
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
