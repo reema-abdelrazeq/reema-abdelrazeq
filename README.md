@@ -16,8 +16,8 @@
 - **Areas of Expertise:** Deep Learning, NLP, Computer Vision, Generative AI
 
 
-## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reema-abdelrazeq)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=reema-abdelrazeq&theme=transparent&border_radius=4.1)](https://git.io/streak-stats)
 
 ## 📫 Contact Me  
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
