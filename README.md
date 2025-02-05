@@ -19,6 +19,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reema-abdelrazeq)
 
 ## 📫 Contact Me  
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
