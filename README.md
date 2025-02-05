@@ -18,9 +18,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent&bg_color=2e003e&title_color=bb86fc&text_color=e0b3ff&icon_color=9a47e5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent&bg_color=2e003e&title_color=bb86fc&text_color=e0b3ff&icon_color=9a47e5&hide_border=true" />
 </div>
-
 
 
 ## 📫 Contact Me 
