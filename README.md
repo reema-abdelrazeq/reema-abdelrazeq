@@ -26,4 +26,3 @@
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
 - 🌐 **LinkedIn:** [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)  
 
-📄 **[View My CV](https://github.com/reema-abdelrazeq/reema-abdelrazeq/blob/main/Reema_Abdelrazeq_CV..pdf)
