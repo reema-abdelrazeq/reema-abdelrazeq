@@ -4,25 +4,38 @@
 
 <p align="center"><b>Navigating The Digital Universe! 🌌</b></p>
 
-## 🌟 About Me  
-- 🔍 **Data Scientist & AI Engineer** – Passionate about turning data into insights.  
-- 🧠 **Machine Learning Enthusiast** – Specializing in predictive modeling, NLP, and deep learning.  
-- 🚀 **Always Learning** – Keeping up with the latest trends in AI, ML, and data science advancements.  
+## 🌟About Me
 
-## 🛠️ Skills & Technologies  
-- **Programming Languages:** Python  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face Transformers  
-- **Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Areas of Expertise:** Deep Learning, NLP, Computer Vision, Generative AI
+- A Data Scientist & AI Engineer passionate about building practical AI solutions that make a real impact.
+-  I specialize in **Natural Language Processing (NLP), Generative AI, and Computer Vision**, with hands-on experience developing and deploying end-to-end applications powered by **LLMs**
+- 🧠 Currently focused on integrating **local LLMs** with vector databases using tools like **LangChain**, **ChromaDB**, and **Ollama**.
+- 🛠️ Comfortable working across the AI stack—from **data preprocessing** and **model development** to **Dockerized deployments** and **interactive UIs** with Streamlit.
 
+---
+
+## ⚙️ Skills & Technologies
+
+- **Languages:** Python  
+- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Hugging Face Transformers  
+- **Generative AI Stack:** LangChain, ChromaDB, Ollama, Streamlit  
+- **Computer Vision:** OpenCV, CNNs, image classification  
+- **NLP:** RNNs, Transformers, embeddings, prompt engineering  
+- **Tools:** Docker, Git, GitHub, Jupyter, VS Code, AWS  
+- **Other:** Data cleaning, augmentation, handling imbalance
+
+---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reema-abdelrazeq&show_icons=true&theme=transparent&bg_color=2e003e&title_color=bb86fc&text_color=e0b3ff&icon_color=9a47e5&hide_border=true" />
 </div>
 
+---
 
-## 📫 Contact Me 
+## 📫 Let's Connect
+
 - 📧 **Email:** [reemaabdelrazeq5@gmail.com](mailto:reemaabdelrazeq5@gmail.com)  
-- 🌐 **LinkedIn:** [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)  
+- 💼 **LinkedIn:** [Reema Abdelrazeq](https://www.linkedin.com/in/reema-abdelrazeq)  
+
 
