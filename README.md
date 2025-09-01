@@ -6,17 +6,17 @@
 
 ## 🌟About Me
 
-- A Data Scientist & AI Engineer passionate about building practical AI solutions that make a real impact.
+- AI Engineer passionate about building practical AI solutions that make a real impact.
 -  I specialize in **Natural Language Processing (NLP), Generative AI, and Computer Vision**, with hands-on experience developing and deploying end-to-end applications powered by **LLMs**
 - 🧠 Currently focused on integrating **local LLMs** with vector databases using tools like **LangChain**, **ChromaDB**, and **Ollama**.
-- 🛠️ Comfortable working across the AI stack—from **data preprocessing** and **model development** to **Dockerized deployments** and **interactive UIs** with Streamlit.
+- 🛠️ Comfortable working across the AI stack—from **data preprocessing** and **model development** to  **interactive UIs** with Streamlit.
 
 ---
 
 ## ⚙️ Skills & Technologies
 
 - **Languages:** Python  
-- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Hugging Face Transformers  
+- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras
 - **Generative AI Stack:** LangChain, ChromaDB, Ollama, Streamlit  
 - **Computer Vision:** OpenCV, CNNs, image classification  
 - **NLP:** RNNs, Transformers, embeddings, prompt engineering  
